@@ -16,7 +16,7 @@
 
 ## Favourites
 
-### IDEs
+### Code Editors
 [![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 ### Languages
