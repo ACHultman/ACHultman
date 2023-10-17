@@ -52,15 +52,6 @@
 <a href="https://www.linkedin.com/in/adam-hultman/">
   <img align="left" alt="My LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" />
 </a>
-<a href="https://www.instagram.com/adamog_/">
-  <img align="left" alt="My Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" />
-</a>
-<a href="https://twitter.com/HultmanAdam">
-  <img align="left" alt="My Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-media-flat-7/64/Social-media_Twitter-512.png" />
-</a>
-<a href="https://hultman.dev/">
-  <img align="left" alt="My Website" width="22px" src="https://cdn4.iconfinder.com/data/icons/buno-info-signs/32/__link_broken_chain-128.png" />
-</a>
 <br/>
 <br/>
 <!--
