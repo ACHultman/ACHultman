@@ -29,4 +29,3 @@
 [![Windows](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-ca/windows/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=achultman.achultman)
-![Last Updated](https://img.shields.io/github/last-commit/achultman/achultman?style=plastic)
