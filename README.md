@@ -8,7 +8,7 @@ At [Kopperfield](https://www.kopperfield.com/), I take product work from investi
 
 Through **Perspective Labs Inc.**, I’m developing products across three areas:
 
-- **Delve** (working name): property intelligence combining listing extraction, calculations, and AI-assisted document analysis into reports with supporting evidence.
+- **Before Offer**: property intelligence combining listing extraction, calculations, and AI-assisted document analysis into reports with supporting evidence.
 - **Parallax Studio**: an AI video application with asynchronous GPU jobs, progress tracking, media storage, and usage accounting.
 - **Earbud**: a C++/JUCE audio-plugin prototype exploring calibrated level metering and listening-exposure estimates.
 
